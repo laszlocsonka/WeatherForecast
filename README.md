@@ -13,6 +13,7 @@ Simple Weather Forecast app made with Android Studio
 <br/> 
 
 Register here https://openweathermap.org/api for free and unique weather API
+<br/> 
 Look for city ID here https://openweathermap.org/find and replace (val CITY: String = "CITY,COUNTRY") with your city and country ID. 
 
 <br/> 
