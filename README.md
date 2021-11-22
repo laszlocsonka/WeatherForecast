@@ -11,7 +11,7 @@ Simple Weather Forecast app made with Android Studio
 </ul> 
 
 <br/> 
-Look for city ID here https://openweathermap.org/find and replace (val CITY: String = "city,country") with your city and country ID. 
+Look for city ID here https://openweathermap.org/find and replace (val CITY: String = "CITY,COUNTRY") with your city and country ID. 
 
 <div class="row">
   <div class="column">
