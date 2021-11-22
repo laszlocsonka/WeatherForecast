@@ -16,8 +16,8 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val CITY: String = "debrecen,hu"
-    val API: String = "c50861e8b4d453260180180fde091edc"
+    val CITY: String = "CITY,COUNTRY" //LIKE "london,uk"
+    val API: String = "COPY HERE YOUR API YOU GOT FROM OPENWEATHERMAP.COM"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
