@@ -14,8 +14,8 @@ Simple Weather Forecast app made with Android Studio
 
 <div class="row">
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/43496943/142928940-b1007708-c76d-47ed-bc13-1b191ecf7873.jpg" style="width:30%">
-    <img src="https://user-images.githubusercontent.com/43496943/142928973-7b84dce4-90fc-4d3e-b23a-9ea07927dc6d.jpg" style="width:30%">
-    <img src="https://user-images.githubusercontent.com/43496943/142930569-3d08340a-1741-4fa8-bf83-bb5d8db715f5.jpg" style="width:30%">
+    <img src="https://user-images.githubusercontent.com/43496943/142933169-20ed044e-995c-4486-a641-9237c58d5cf3.jpg" style="width:30%">
+    <img src="https://user-images.githubusercontent.com/43496943/142933171-5536a7f3-d64c-4fd7-bd60-2d0bb5b7afb8.jpg" style="width:30%">
   </div>
 </div>
+
